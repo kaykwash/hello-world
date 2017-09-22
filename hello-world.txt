@@ -1,0 +1,23 @@
+ <body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html><!DOCTYPE html>
+bash: !DOCTYPE: event not found
+
+Carol@DESKTOP-DVU663F MINGW64 ~
+$ <html>
+bash: syntax error near unexpected token `newline'
+
+Carol@DESKTOP-DVU663F MINGW64 ~
+$ <body>
+bash: syntax error near unexpected token `newline'
+
+Carol@DESKTOP-DVU663F MINGW64 ~
+$ <h1>Hello World</h1>
+bash: syntax error near unexpected token `newline'
+
+Carol@DESKTOP-DVU663F MINGW64 ~
+$ <p>I'm hosted with GitHub Pages.</p>
+> </body>
+> </html>
